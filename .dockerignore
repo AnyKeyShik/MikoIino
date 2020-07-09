@@ -1,0 +1,10 @@
+venv/
+.idea/
+.git/
+logs
+LICENSE
+*.md
+?ocker*
+auth_consts.json.example
+.dockerignore
+.gitignore

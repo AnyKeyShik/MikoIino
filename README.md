@@ -29,7 +29,14 @@ To compile and run this project, you will need:
 
 #### Deploy
 
-TBD
+1. Fill constants for auth to discord
+1. Run `docker-compose up -d --build`
+
+
+#### Test deploy
+1. Fill constants for auth to discord
+1. Run `docker-compose up -f docker-compose.dev.yaml -d --build`
+
 
 #### Available commands:
 [Link](Commands.md)

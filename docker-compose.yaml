@@ -1,0 +1,6 @@
+version: '2'
+services:
+  miko:
+    build:
+      context: .
+      dockerfile: Dockerfile
